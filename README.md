@@ -3,5 +3,5 @@
 Dataset: SWaT (Intrusion detection dataset)
 
 Language: Python 3.
-Main Packages: Pytorch and Panda.
+Main Packages: Pytorch and Pandas.
 
